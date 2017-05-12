@@ -1,3 +1,6 @@
+// 11953 Battleships
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3104
+
 #include <iostream>
 using namespace std;
 

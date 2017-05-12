@@ -1,3 +1,6 @@
+// 11292 Dragon of Loowater
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2267
+
 #include <iostream>
 #include <algorithm>
 #include <numeric>

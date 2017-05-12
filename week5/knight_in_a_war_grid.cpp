@@ -1,3 +1,6 @@
+// 11906 Knight in a War Grid
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3057
+
 #include <iostream>
 #include <cstring>
 using namespace std;

@@ -1,3 +1,6 @@
+// 11067 Little Red Riding Hood
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2008
+
 #include <iostream>
 #include <cstring>
 using namespace std;

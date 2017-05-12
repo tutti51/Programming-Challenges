@@ -1,3 +1,6 @@
+// 10131 Is Bigger Smarter?
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1072
+
 #include <iostream>
 #include <tuple>
 #include <vector>

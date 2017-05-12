@@ -1,3 +1,6 @@
+// 11291 Smeech
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2266
+
 #include <iostream>
 #include <sstream>
 #include <string>

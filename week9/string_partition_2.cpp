@@ -1,3 +1,6 @@
+// 11258 String Partition
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2225
+
 #include <iostream>
 #include <string>
 #include <cstring>

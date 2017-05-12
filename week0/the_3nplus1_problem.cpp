@@ -1,3 +1,6 @@
+// 100 The 3n + 1 problem
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36
+
 /*
 cycle length を導出するために、func関数を呼び出した回数を求める際、
 初めはfunc関数内にstatic変数を用意しようとしたが、今回複数のcycle lengthを求めなくては

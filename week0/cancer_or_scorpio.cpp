@@ -1,3 +1,6 @@
+// 11947 Cancer or Scorpio
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3098
+
 /*
 懐胎期間の始まりの年月日を入力すると、終わりの年月日とその子供の誕生日の十二星座を
 出力するプログラムである。

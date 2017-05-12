@@ -1,3 +1,6 @@
+// 10083 Division
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1024
+
 import java.util.*;
 import java.io.*;
 import java.math.*;

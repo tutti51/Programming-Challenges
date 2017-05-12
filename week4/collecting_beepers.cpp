@@ -1,3 +1,6 @@
+// 10496 Collecting Beepers
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1437
+
 #include <iostream>
 #include <vector>
 #include <tuple>

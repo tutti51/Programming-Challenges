@@ -1,3 +1,6 @@
+// 920 Sunny Mountains
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=861
+
 #include <iostream>
 #include <vector>
 #include <map>

@@ -1,3 +1,6 @@
+// 10360 Rat Attack
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1301
+
 #include <iostream>
 #include <cstring>
 using namespace std;

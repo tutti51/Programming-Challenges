@@ -1,3 +1,6 @@
+// 10187 From Dusk Till Dawn
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1128
+
 #include <iostream>
 #include <vector>
 #include <string>

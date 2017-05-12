@@ -1,3 +1,6 @@
+// 12455 Bars
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3886
+
 #include <iostream>
 #include <cstring>
 using namespace std;

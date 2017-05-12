@@ -1,3 +1,6 @@
+// 507 Jill Rides Again
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=448
+
 #include <iostream>
 #include <vector>
 #include <ctime>

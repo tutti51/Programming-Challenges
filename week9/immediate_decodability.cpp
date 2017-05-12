@@ -1,3 +1,6 @@
+// 644 Immediate Decodability
+// https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=585
+
 #include <iostream>
 #include <cstring>
 using namespace std;
